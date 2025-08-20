@@ -10,3 +10,4 @@ Notes and usage details for agent-symphony.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
